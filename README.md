@@ -9,6 +9,6 @@
  # Libraries
  . Sklearn which include
  .training the data using # train_test_split
- . creating linear model using # LogisticRegression
- .sklearn.metrics  to obatin  the percentage of accuracy using # accuracy_score
+ . creating a linear model using # LogisticRegression
+ .sklearn.metrics  to obtain  the percentage of accuracy using # accuracy_score
  
